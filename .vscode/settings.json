@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Lab7Airplane.sln"
+    "dotnet.defaultSolution": "229F-Sarawut-airplane.sln"
 }
